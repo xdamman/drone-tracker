@@ -1,0 +1,14 @@
+{
+  "author": {
+    "name": "Paul Hayes, Kieran Farr",
+    "email": "xdamman@gmail.com",
+    "url": "http://github.com/xdamman/drone-tracker"
+  },
+  "name": "drone-tracker",
+  "description": "Follow a face with a drone",
+  "version": "0.0.1",
+  "dependencies": {
+    "ar-drone": "0.0.x",
+    "opencv": "0.x.x"
+  }
+}
